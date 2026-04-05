@@ -1,0 +1,26 @@
+[
+  {
+    "reference": "Code Pénal Art. 167",
+    "title": "Viol et attentat à la pudeur",
+    "body": "Quiconque aura commis un viol sera puni d'une peine d'emprisonnement de cinq à vingt ans.",
+    "categories": ["agression_sexuelle", "violence_physique"],
+    "keywords": ["viol", "agression", "abus"],
+    "penalties": "5 à 20 ans de prison"
+  },
+  {
+    "reference": "Loi n° 06/018 Art. 3",
+    "title": "Harcelement sexuel",
+    "body": "Le harcèlement sexuel consiste à obtenir d'autrui par ordre, menaces ou contraintes des faveurs de nature sexuelle.",
+    "categories": ["harcelement", "abus_de_pouvoir"],
+    "keywords": ["harcelement", "chantage", "sexuel"],
+    "penalties": "1 à 12 ans de prison"
+  },
+  {
+    "reference": "Code de la Famille Art. 441",
+    "title": "Mariage forcé",
+    "body": "Nul ne peut être contraint au mariage. Le consentement des époux est obligatoire.",
+    "categories": ["mariage_force", "droits_civils"],
+    "keywords": ["mariage", "force", "famille"],
+    "penalties": "Caducité du mariage"
+  }
+]
